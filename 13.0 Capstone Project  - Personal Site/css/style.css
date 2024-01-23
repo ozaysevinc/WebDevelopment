@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'PT Serif', serif;
+    font-size: 5.625rem;
+    color: #031A3D;
+}
+.top-container{
+    background-color: #F7E6DA;
+}
+.lead {
+    color: #031A3D;
+}
+.bi{
+    color: #FFFFFF;
+}
+.me {
+  border-radius: 50%;
+  height: 170px;
+  border: #031A3D solid;
+}
+.middle-container {
+    background-color: #031A3D;  
+}
+.row-featurette{
+    color: #FFFFFF;
+}
+.my-skills{
+    color: #FFFFFF;
+    font-size: 80px;
+    font-family: 'Caveat', cursive;
+}
+h2{
+    color: #F7E6DA;
+}
+.lead2 {
+    color: #FFFFFF;
+    font-family: 'PT Serif', serif;
+}
+.bottom-container{
+    background-color: #A4826D;
+}
+.custom-bg-color {
+    background-color: #031A3D;
+}
